@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d0878ca-4f10-448e-bca6-4792e59dc494": {
+      "ProjectGuid": "6d0878ca-4f10-448e-bca6-4792e59dc494",
+      "DisplayName": "TestProjectTsum2",
+      "ColorIndex": 0
+    },
+    "e7012467-a85a-437c-b915-118e02a0e7d2": {
+      "ProjectGuid": "e7012467-a85a-437c-b915-118e02a0e7d2",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
